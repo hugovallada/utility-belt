@@ -1,0 +1,5 @@
+1702856164141:converter
+1702856302788:converter --type js
+1702856310900:converter --type json
+1702856328778:converter --dest ola.txt --src txt.txt --type jspn
+1702858891342:converter --src /home/hugo/Workspace/line-by-line-file-converter/teste.json --type yaml /home/hugo/Workspace/line-by-line-file-converter/teste.yaml
